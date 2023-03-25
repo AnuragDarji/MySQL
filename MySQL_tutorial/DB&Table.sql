@@ -19,14 +19,14 @@ INSERT INTO city(ID,CITY_CODE,CITY_NAME,CITY_STATE) VALUES (1,1,'AHEMEDABAD','GU
 SELECT * FROM city;
 
 /*
- +------+-----------+------------+------------+
- | ID   | CITY_CODE | CITY_NAME  | CITY_STATE |
- +------+-----------+------------+------------+
- |    1 |         1 | AHEMEDABAD | GUJARAT    |
- |    2 |        18 | GANDHINAGAR| GUJARAT    |
- |    3 |         5 | SURAT      | GUJARAT    |
- |    4 |         6 | BARODA     | GUJARAT    |
- +------+-----------+------------+------------+
+ +------+-----------+-------------+------------+
+ | ID   | CITY_CODE | CITY_NAME   | CITY_STATE |
+ +------+-----------+-------------+------------+
+ |    1 |         1 | AHEMEDABAD  | GUJARAT    |
+ |    2 |        18 | GANDHINAGAR | GUJARAT    |
+ |    3 |         5 | SURAT       | GUJARAT    |
+ |    4 |         6 | BARODA      | GUJARAT    |
+ +------+-----------+-------------+------------+
 */
 
 
